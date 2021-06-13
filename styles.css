@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav li {
+  list-style: none;
+}
+
+.links {
+  display: flex;
+}
+
+.container-1 div {
+  border: 2px solid black;
+  justify-content: space-evenly;
+}
+
+.boxes {
+  padding: 20px;
+}
+
+.container-2 {
+  border: 2px solid black;
+  flex-basis: 100%;
+}
+
+.section {
+  display: flex;
+  flex: wrap;
+}
